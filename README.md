@@ -35,7 +35,7 @@ api_security_report/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/api-security-assessment.git
+git clone https://github.com/usualdork/APIScanner.git
 cd api-security-assessment
 ```
 

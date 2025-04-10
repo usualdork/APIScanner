@@ -1,0 +1,15 @@
+# Core dependencies
+requests>=2.31.0
+python-owasp-zap-v2.4>=0.4.0
+
+# Data visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Template rendering
+jinja2>=3.1.0
+
+# Optional dependencies
+pandas>=2.1.0  # For data analysis
+PyYAML>=6.0.1  # For configuration management
+colored>=2.2.3  # For console output formatting
